@@ -5,6 +5,12 @@ Proyek ini menggunakan **frontend modern (Vite + TailwindCSS)** serta **backend 
 
 ---
 
+### 📂 Dokumen Terkait
+
+- [📄 SendPick Technical Test (PDF)](./docs/SendPick%20Technical%20Test.pdf)
+- [📄 Bagian 2 (Word)](./docs/Bagian%202.docx)
+
+
 ## 🚀 Fitur Utama
 
 ### 🔧 Backend (API Server)
